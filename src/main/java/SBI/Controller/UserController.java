@@ -7,5 +7,7 @@ public class UserController {
 
     private String email;
 
+    private String Passeord;
+
 
 }
